@@ -1,0 +1,8 @@
+import random
+
+def nombre_aleatoire():
+    # Génère un nombre aléatoire entre 1 et 100
+    nombre = random.randint(1, 100)
+    return nombre
+
+print("Voici un nombre aléatoire entre 1 et 100 :", nombre_aleatoire())
