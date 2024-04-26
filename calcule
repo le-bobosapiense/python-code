@@ -6,4 +6,4 @@ nombre2 = float(input("Entrez le deuxième nombre : "))
 somme = nombre1 + nombre2
 
 # Afficher la somme
-print("La somme de", nombre1, "et", nombre2, "est égale à", somme)
+print("La somme de", nombre1, "and", nombre2, "est égale à", somme)
