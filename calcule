@@ -1,0 +1,9 @@
+# Demander à l'utilisateur d'entrer deux nombres
+nombre1 = float(input("Entrez le premier nombre : "))
+nombre2 = float(input("Entrez le deuxième nombre : "))
+
+# Calculer la somme des deux nombres
+somme = nombre1 + nombre2
+
+# Afficher la somme
+print("La somme de", nombre1, "et", nombre2, "est égale à", somme)
